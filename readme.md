@@ -2,8 +2,8 @@
 
 **MERN Ecommerce** is a full-stack application created to improve your online buying experience. It's built on the MERN stack (MongoDB, Express.js, React, and Node.js), with Redux Toolkit for efficient state management and Material UI for a clean, user-friendly interface. This project provides a strong platform for both users and administrators, complete with necessary features for a smooth experience.
 
-![ecommerce-homepage](https://github.com/RishiBakshii/mern-ecommerce/blob/main/frontend/src/assets/images/front.png?raw=true)
-![ecommerce-banner](https://github.com/RishiBakshii/mern-ecommerce/blob/main/frontend/src/assets/images/banner3.jpg?raw=true)
+![ecommerce-homepage](https://github.com/Rajee2002/Ecommerce-Mern/blob/main/frontend/src/assets/images/front.png?raw=true)
+![ecommerce-banner](https://github.com/Rajee2002/Ecommerce-Mern/blob/main/frontend/src/assets/images/banner3.jpg?raw=true)
 
 
 # **Features**
@@ -38,13 +38,13 @@
 ### Clone the project
 
 ```bash
-  git clone https://github.com/RishiBakshii/mern-ecommerce.git
+  git clone https://github.com/Rajee2002/Ecommerce-Mern.git
 ```
 
 ### Navigate to the project directory
 
 ```bash
-  cd mern-ecommerce
+  cd Ecommenrce-mern
 ```
 
 ### Install dependencies for frontend and backend separately
